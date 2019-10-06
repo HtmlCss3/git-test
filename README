@@ -1,3 +1,7 @@
 hello test3
+<<<<<<< HEAD
 hello test2
 hello test1 add by HtmlCss3
+=======
+hello test2 edit by xugit2019
+>>>>>>> 4733f93c51af39f4550c8ed95daac1ac9a62d4a1
